@@ -8,13 +8,13 @@ import { NodeConnectionType, NodeOperationError } from 'n8n-workflow';
 
 export class ExampleNode implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'Egroupware',
-		name: 'egroupware',
+		displayName: 'Example Node',
+		name: 'exampleNode',
 		group: ['transform'],
 		version: 1,
 		description: 'Basic Example Node',
 		defaults: {
-			name: 'Egroupware Node',
+			name: 'Example Node',
 		},
 		inputs: [NodeConnectionType.Main],
 		outputs: [NodeConnectionType.Main],
