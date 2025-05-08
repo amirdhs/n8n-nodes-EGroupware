@@ -41,7 +41,7 @@
     ],
     "nodes": [
       "dist/nodes/ExampleNode/ExampleNode.node.js",
-      "dist/nodes/Egroupware/Egroupware.node.js",
+      "dist/nodes/Egroupware/Egroupware.node.js"
     ]
   },
   "devDependencies": {
