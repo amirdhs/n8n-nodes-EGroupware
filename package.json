@@ -8,8 +8,8 @@
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "Amir Dehestani",
+    "email": "amirmo800@gmail.com"
   },
   "repository": {
     "type": "git",
@@ -41,7 +41,7 @@
     ],
     "nodes": [
       "dist/nodes/ExampleNode/ExampleNode.node.js",
-      "dist/nodes/HttpBin/HttpBin.node.js"
+      "dist/nodes/Egroupware/Egroupware.node.js",
     ]
   },
   "devDependencies": {
